@@ -8,9 +8,9 @@
 <hr />
 
 ### 📌 Projects  
-- 🔗 [Simple Trading System](https://github.com/OmarAyman1234/EFG_InternProj) – Internship project at **EFG Holding**, built with .NET.  
+- 🔗 [Simple Trading System](https://github.com/OmarAyman1234/EFG_InternProj) – Internship full-stack project at **EFG Holding**, built with .NET Core.  
+- 🔗 [Health Club Management System](https://github.com/OmarAyman1234/health-club-management-system) – College project built with **Java**.  
 - 🔗 [Custom To-do App](https://github.com/OmarAyman1234/todo-list) – MERN stack full app (React, Node.js, Express, MongoDB).  
-- 🔗 [Health Club Management System](https://github.com/OmarAyman1234/health-club-management-system) – College project in **Java**.  
 
 <hr />
 
